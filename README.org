@@ -1,0 +1,9 @@
+** 26 Apr 2021
+
+[[file:figure-SPARSEMOD-logs-data.R]] downloads Rstudio CRAN mirror
+download logs.
+
+[[file:figure-SPARSEMOD-logs.R]] makes
+
+[[file:figure-SPARSEMOD-logs.png]]
+
